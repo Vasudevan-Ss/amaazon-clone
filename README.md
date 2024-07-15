@@ -1,2 +1,2 @@
 # amazon-clone
-amazoon clone using html css5 and bootstrap
+amazon clone using html css5 and bootstrap
